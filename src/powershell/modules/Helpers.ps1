@@ -84,6 +84,7 @@ function Add-Conftest {
     Throw "Conftest installation failed.", $_
   }
 }
+
 function Get-EnvConfig {
   param (
     [Parameter(Mandatory=$true)] $ROOT_PATH
@@ -114,4 +115,11 @@ function Get-EnvConfig {
       return $envConfigAll.environments.pr
     }
   }
+}
+
+function Get-Base64Auth {
+  param (
+    [Parameter(Mandatory=$true)] $TOKEN
+  )
+  $B64Pat = [Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes("`:$TOKEN"))
 }

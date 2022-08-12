@@ -1,0 +1,14 @@
+title: Release Notes of PipesReference
+description: >
+  Misc Repository for Swiss Army Knife (SAK)
+releases:
+- version: 1.0.0
+  description: Misc Project Initialized SAK
+  date: 2022-08-12
+  added:
+  - src/env.json
+  - src/powershell/modules/Helpers.ps1
+  - .gitignore
+  - .editorconfig
+  - release-notes.yml
+  - documentation/docker/debian/WSL2.md
