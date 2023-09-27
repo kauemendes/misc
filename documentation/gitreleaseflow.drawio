@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T14:39:03.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="1R-hqowTF0Eg_Z_xao8W" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T14:41:27.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="bJvy46XHDtso9gVSLLp-" version="21.8.2" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="1155" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -287,11 +287,11 @@
             <mxPoint x="265.07" y="1036" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QDM2Al_dsE5SoyRe2S7c-41" value="Tag: 1.1.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="585.44" y="910" width="110" height="20" as="geometry" />
+        <mxCell id="QDM2Al_dsE5SoyRe2S7c-41" value="Tag: 1.1.0, &lt;strike&gt;production, latest&lt;/strike&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550.1800000000001" y="910" width="194.56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QDM2Al_dsE5SoyRe2S7c-42" value="Tag: 1.0.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="237.44" y="910" width="70" height="20" as="geometry" />
+        <mxCell id="QDM2Al_dsE5SoyRe2S7c-42" value="Tag: 1.0.0, &lt;strike&gt;production, latest&lt;/strike&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="237.44" y="910" width="192.56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QDM2Al_dsE5SoyRe2S7c-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" source="QDM2Al_dsE5SoyRe2S7c-44" target="QDM2Al_dsE5SoyRe2S7c-46">
           <mxGeometry relative="1" as="geometry" />
@@ -305,8 +305,8 @@
         <mxCell id="QDM2Al_dsE5SoyRe2S7c-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="881.82" y="1021" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QDM2Al_dsE5SoyRe2S7c-47" value="Tag: 1.2.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="807.44" y="908" width="110" height="20" as="geometry" />
+        <mxCell id="QDM2Al_dsE5SoyRe2S7c-47" value="Tag: 1.2.0, production, latest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="870" y="910" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QDM2Al_dsE5SoyRe2S7c-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDM2Al_dsE5SoyRe2S7c-53" target="QDM2Al_dsE5SoyRe2S7c-42">
           <mxGeometry relative="1" as="geometry">
